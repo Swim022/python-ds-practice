@@ -11,5 +11,5 @@ def last_element(lst):
     if lst:
         return lst[-1]
 
-    # we don't need to do anything else; functions
+    # nothing else needed; functions
     # return None by default
